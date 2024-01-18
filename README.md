@@ -7,8 +7,6 @@ This repository contains a simple  Wreck-It-Ralph game implemented in JavaScript
   - Ralph appears randomly in squares.
   - The player scores points for hitting the correct mole.
   - Time limit for each round.
-  - Lives are deducted only if the player fails to click the correct mole in time.
-  - Auto-reset functionality for a new round after each game over.
 
 # Structure:
   - index.html: HTML file defining the game layout.
