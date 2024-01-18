@@ -1,19 +1,19 @@
-## Wreck-It-Ralph
+# Wreck-It-Ralph
 
-# Overview
+## Overview
 This repository contains a simple  Wreck-It-Ralph game implemented in JavaScript. The game features Ralph appearing in random squares, and the player scores points by clicking on the correct square within a time limit.
 
-# Features:
+## Features:
   - Ralph appears randomly in squares.
   - The player scores points for hitting the correct mole.
   - Time limit for each round.
 
-# Structure:
+## Structure:
   - index.html: HTML file defining the game layout.
   - style.css: CSS file for styling the game elements.
   - script.js: JavaScript file containing the game logic.
 
-# Usage:
+## Usage:
   1. Clone the repository: git clone https://github.com/your-username/whack-a-mole.git
   2. Open index.html in a web browser to play the game.
 
